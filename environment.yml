@@ -23,8 +23,6 @@ dependencies:
   - conda-package-streaming
   - anaconda-auth[version='>=0.15.1']
   - anaconda-channel-guide[version='>=0.1.1']
-  - anaconda_prompt
-  - anaconda_powershell_prompt
   - anaconda-toolbox
   - jupyterlab
   - seaborn
